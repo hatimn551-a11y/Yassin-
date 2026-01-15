@@ -67,7 +67,7 @@
       "category": "beIN Sports",
       "language": "ar",
       "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
+      "image": "https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png",
       "qualities": {
         "LOW": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/4454",
         "HEVC": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/459",
@@ -1124,6 +1124,7 @@
     }
   ]
 }
+
 
 
 
