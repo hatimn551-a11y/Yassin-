@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updated_at": "2026-01-14",
+  "version": "1.1.0",
+  "updated_at": "2026-01-15",
   "channels": [
     {
       "name": "Saudi Qraan",
@@ -9,641 +9,7 @@
       "description": "",
       "image": "https://i.imgur.com/TVIbHns.png",
       "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/110"
-      }
-    },
-    {
-      "name": "Rotana Drama",
-      "category": "Rotana",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3215"
-      }
-    },
-    {
-      "name": "Rotana Clip",
-      "category": "Rotana",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3217"
-      }
-    },
-    {
-      "name": "Rotana Khaliji",
-      "category": "Rotana",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3218"
-      }
-    },
-    {
-      "name": "ART Aflam 1",
-      "category": "ART",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/997"
-      }
-    },
-    {
-      "name": "ART Aflam 2",
-      "category": "ART",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/102"
-      }
-    },
-    {
-      "name": "ART Cinema",
-      "category": "ART",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/103"
-      }
-    },
-    {
-      "name": "ART Hekayat 1",
-      "category": "ART",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/104"
-      }
-    },
-    {
-      "name": "ART Hekayat 2",
-      "category": "ART",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/105"
-      }
-    },
-    {
-      "name": "beIN Jeem",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/22"
-      }
-    },
-    {
-      "name": "beIN Baraeem",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2028"
-      }
-    },
-    {
-      "name": "beIN JUNIOR",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2947"
-      }
-    },
-    {
-      "name": "beIN DREAMWORKS",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2948"
-      }
-    },
-    {
-      "name": "Cartoon Network Arabic",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2949"
-      }
-    },
-    {
-      "name": "Cartoon Network",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1011"
-      }
-    },
-    {
-      "name": "Spacetoon",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1017"
-      }
-    },
-    {
-      "name": "Toyor Al Ganna",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1020"
-      }
-    },
-    {
-      "name": "Majid",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1019"
-      }
-    },
-    {
-      "name": "Mwaheb",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1016"
-      }
-    },
-    {
-      "name": "Kooky",
-      "category": "أطفال",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1015"
-      }
-    },
-    {
-      "name": "Al Jazeera",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/999",
-        "FHD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1003"
-      }
-    },
-    {
-      "name": "Al Jazeera Documentry",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1000"
-      }
-    },
-    {
-      "name": "AL JAZEERA MUBASHER",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3208"
-      }
-    },
-    {
-      "name": "Al Arabiya",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1001"
-      }
-    },
-    {
-      "name": "Al Arabiya Alhadaath",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1002"
-      }
-    },
-    {
-      "name": "BBC Arabic",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1005"
-      }
-    },
-    {
-      "name": "Sky News",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1007"
-      }
-    },
-    {
-      "name": "RT Arabic",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1004"
-      }
-    },
-    {
-      "name": "France 24 Arabic",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3206"
-      }
-    },
-    {
-      "name": "DW Arabic",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3207"
-      }
-    },
-    {
-      "name": "Asharq",
-      "category": "أخبار",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3210"
-      }
-    },
-    {
-      "name": "ON Time Sport 1",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "SD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/4298",
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/507"
-      }
-    },
-    {
-      "name": "ON Time Sport 2",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/949"
-      }
-    },
-    {
-      "name": "Al Ahly TV",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/952"
-      }
-    },
-    {
-      "name": "Zamalek TV",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2068"
-      }
-    },
-    {
-      "name": "CBC",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/502"
-      }
-    },
-    {
-      "name": "CBC Drama",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/500"
-      }
-    },
-    {
-      "name": "CBC Sofra",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/501"
-      }
-    },
-    {
-      "name": "DMC",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/503"
-      }
-    },
-    {
-      "name": "Al Nahar",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/504"
-      }
-    },
-    {
-      "name": "Al Nahar Drama",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/505"
-      }
-    },
-    {
-      "name": "ON Drama",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/506"
-      }
-    },
-    {
-      "name": "ON E",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/508"
-      }
-    },
-    {
-      "name": "Al Hayah",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/509"
-      }
-    },
-    {
-      "name": "Mehwar",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/510"
-      }
-    },
-    {
-      "name": "Nile Sport",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/496"
-      }
-    },
-    {
-      "name": "Nile Comedy",
-      "category": "مصرية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/497"
-      }
-    },
-    {
-      "name": "Al Oula International",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/726"
-      }
-    },
-    {
-      "name": "Al Maghribia",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/727"
-      }
-    },
-    {
-      "name": "2M Maroc",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/728"
-      }
-    },
-    {
-      "name": "Chada TV",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/729"
-      }
-    },
-    {
-      "name": "Assadissa",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/730"
-      }
-    },
-    {
-      "name": "Arriadia",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/731",
-        "TNT HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/4489"
-      }
-    },
-    {
-      "name": "Medi1 TV",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/732"
-      }
-    },
-    {
-      "name": "Tele Maroc",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/735"
-      }
-    },
-    {
-      "name": "Tamazight",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/736",
-        "FHD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3114"
-      }
-    },
-    {
-      "name": "M24",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3109"
-      }
-    },
-    {
-      "name": "Al Maghribia News",
-      "category": "مغربية",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/734"
-      }
-    },
-    {
-      "name": "beIN Movies 1",
-      "category": "أفلام و ترفيه",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/24"
-      }
-    },
-    {
-      "name": "beIN Movies 2",
-      "category": "أفلام و ترفيه",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/17"
-      }
-    },
-    {
-      "name": "beIN Movies 3",
-      "category": "أفلام و ترفيه",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/18"
-      }
-    },
-    {
-      "name": "beIN Movies 4",
-      "category": "أفلام و ترفيه",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/19"
-      }
-    },
-    {
-      "name": "beIN Series 1",
-      "category": "أفلام و ترفيه",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/20"
-      }
-    },
-    {
-      "name": "beIN Series 2",
-      "category": "أفلام و ترفيه",
-      "language": "ar",
-      "description": "",
-      "image": "https://i.imgur.com/TVIbHns.png",
-      "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/21"
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/126"
       }
     },
     {
@@ -1203,688 +569,558 @@
       }
     },
     {
-      "name": "Rotana Cinema",
-      "category": "Rotana",
+      "name": "beIN Jeem",
+      "category": "أطفال",
       "language": "ar",
       "description": "",
       "image": "https://i.imgur.com/TVIbHns.png",
       "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/106"
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/22"
       }
     },
     {
-      "name": "Rotana Cinema KSA",
-      "category": "Rotana",
+      "name": "beIN Baraeem",
+      "category": "أطفال",
       "language": "ar",
       "description": "",
       "image": "https://i.imgur.com/TVIbHns.png",
       "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/107"
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2028"
       }
     },
     {
-      "name": "Rotana Aflam",
-      "category": "Rotana",
+      "name": "beIN JUNIOR",
+      "category": "أطفال",
       "language": "ar",
       "description": "",
       "image": "https://i.imgur.com/TVIbHns.png",
       "qualities": {
-        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/108"
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2947"
       }
     },
-  {
-    "name": "Rotana Comedy",
-    "category": "Rotana",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/109"
-    }
-  },
-  {
-    "name": "Rotana Classic",
-    "category": "Rotana",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/110"
-    }
-  },
-  {
-    "name": "Rotana Drama",
-    "category": "Rotana",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3215"
-    }
-  },
-  {
-    "name": "Rotana Clip",
-    "category": "Rotana",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3217"
-    }
-  },
-  {
-    "name": "Rotana Khaliji",
-    "category": "Rotana",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3218"
-    }
-  },
-  {
-    "name": "ART Aflam 1",
-    "category": "ART",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/997"
-    }
-  },
-  {
-    "name": "ART Aflam 2",
-    "category": "ART",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/102"
-    }
-  },
-  {
-    "name": "ART Cinema",
-    "category": "ART",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/103"
-    }
-  },
-  {
-    "name": "ART Hekayat 1",
-    "category": "ART",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/104"
-    }
-  },
-  {
-    "name": "ART Hekayat 2",
-    "category": "ART",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/105"
-    }
-  }
-  {
-    "name": "beIN Jeem",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/22"
-    }
-  },
-  {
-    "name": "beIN Baraeem",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2028"
-    }
-  },
-  {
-    "name": "beIN JUNIOR",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2947"
-    }
-  },
-  {
-    "name": "beIN DREAMWORKS",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2948"
-    }
-  },
-  {
-    "name": "Cartoon Network Arabic",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2949"
-    }
-  },
-  {
-    "name": "Cartoon Network",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1011"
-    }
-  },
-  {
-    "name": "Spacetoon",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1017"
-    }
-  },
-  {
-    "name": "Toyor Al Ganna",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1020"
-    }
-  },
-  {
-    "name": "Majid",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1019"
-    }
-  },
-  {
-    "name": "Mwaheb",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1016"
-    }
-  },
-  {
-    "name": "Kooky",
-    "category": "أطفال",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1015"
-    }
-  }
-  {
-    "name": "Al Jazeera",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/999",
-      "FHD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1003"
-    }
-  },
-  {
-    "name": "Al Jazeera Documentry",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1000"
-    }
-  },
-  {
-    "name": "AL JAZEERA MUBASHER",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3208"
-    }
-  },
-  {
-    "name": "Al Arabiya",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1001"
-    }
-  },
-  {
-    "name": "Al Arabiya Alhadaath",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1002"
-    }
-  },
-  {
-    "name": "BBC Arabic",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1005"
-    }
-  },
-  {
-    "name": "Sky News",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1007"
-    }
-  },
-  {
-    "name": "RT Arabic",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1004"
-    }
-  },
-  {
-    "name": "France 24 Arabic",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3206"
-    }
-  },
-  {
-    "name": "DW Arabic",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3207"
-    }
-  },
-  {
-    "name": "Asharq",
-    "category": "أخبار",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3210"
-    }
-  }
-  {
-    "name": "ON Time Sport 1",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "SD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/4298",
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/507"
-    }
-  },
-  {
-    "name": "ON Time Sport 2",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/949"
-    }
-  },
-  {
-    "name": "Al Ahly TV",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/952"
-    }
-  },
-  {
-    "name": "Zamalek TV",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2068"
-    }
-  },
-  {
-    "name": "CBC",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/502"
-    }
-  },
-  {
-    "name": "CBC Drama",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/500"
-    }
-  },
-  {
-    "name": "CBC Sofra",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/501"
-    }
-  },
-  {
-    "name": "DMC",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/503"
-    }
-  },
-  {
-    "name": "Al Nahar",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/504"
-    }
-  },
-  {
-    "name": "Al Nahar Drama",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/505"
-    }
-  },
-  {
-    "name": "ON Drama",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/506"
-    }
-  },
-  {
-    "name": "ON E",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/508"
-    }
-  },
-  {
-    "name": "Al Hayah",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/509"
-    }
-  },
-  {
-    "name": "Mehwar",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/510"
-    }
-  },
-  {
-    "name": "Nile Sport",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/496"
-    }
-  },
-  {
-    "name": "Nile Comedy",
-    "category": "مصرية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/497"
-    }
-  }
-  {
-    "name": "Al Oula International",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/726"
-    }
-  },
-  {
-    "name": "Al Maghribia",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/727"
-    }
-  },
-  {
-    "name": "2M Maroc",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/728"
-    }
-  },
-  {
-    "name": "Chada TV",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/729"
-    }
-  },
-  {
-    "name": "Assadissa",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/730"
-    }
-  },
-  {
-    "name": "Arriadia",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/731",
-      "TNT HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/4489"
-    }
-  },
-  {
-    "name": "Medi1 TV",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/732"
-    }
-  },
-  {
-    "name": "Tele Maroc",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/735"
-    }
-  },
-  {
-    "name": "Tamazight",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/736",
-      "FHD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3114"
-    }
-  },
-  {
-    "name": "M24",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3109"
-    }
-  },
-  {
-    "name": "Al Maghribia News",
-    "category": "مغربية",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/734"
-    }
-  }
-  {
-    "name": "beIN Movies 1",
-    "category": "أفلام و ترفيه",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/24"
-    }
-  },
-  {
-    "name": "beIN Movies 2",
-    "category": "أفلام و ترفيه",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/17"
-    }
-  },
-  {
-    "name": "beIN Movies 3",
-    "category": "أفلام و ترفيه",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/18"
-    }
-  },
-  {
-    "name": "beIN Movies 4",
-    "category": "أفلام و ترفيه",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/19"
-    }
-  },
-  {
-    "name": "beIN Series 1",
-    "category": "أفلام و ترفيه",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/20"
-    }
-  },
-  {
-    "name": "beIN Series 2",
-    "category": "أفلام و ترفيه",
-    "language": "ar",
-    "description": "",
-    "image": "https://i.imgur.com/TVIbHns.png",
-    "qualities": {
-      "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/21"
-    }
-  }
- ]
+    {
+      "name": "beIN DREAMWORKS",
+      "category": "أطفال",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2948"
+      }
+    },
+    {
+      "name": "Cartoon Network Arabic",
+      "category": "أطفال",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2949"
+      }
+    },
+    {
+      "name": "Cartoon Network",
+      "category": "أطفال",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1011"
+      }
+    },
+    {
+      "name": "Spacetoon",
+      "category": "أطفال",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1017"
+      }
+    },
+    {
+      "name": "Toyor Al Ganna",
+      "category": "أطفال",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1020"
+      }
+    },
+    {
+      "name": "Majid",
+      "category": "أطفال",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1019"
+      }
+    },
+    {
+      "name": "Mwaheb",
+      "category": "أطفال",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1016"
+      }
+    },
+    {
+      "name": "Kooky",
+      "category": "أطفال",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1015"
+      }
+    },
+    {
+      "name": "Al Jazeera",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/999",
+        "FHD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1003"
+      }
+    },
+    {
+      "name": "Al Jazeera Documentry",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1000"
+      }
+    },
+    {
+      "name": "AL JAZEERA MUBASHER",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3208"
+      }
+    },
+    {
+      "name": "Al Arabiya",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1001"
+      }
+    },
+    {
+      "name": "Al Arabiya Alhadaath",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1002"
+      }
+    },
+    {
+      "name": "BBC Arabic",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1005"
+      }
+    },
+    {
+      "name": "Sky News",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1007"
+      }
+    },
+    {
+      "name": "RT Arabic",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/1004"
+      }
+    },
+    {
+      "name": "France 24 Arabic",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3206"
+      }
+    },
+    {
+      "name": "DW Arabic",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3207"
+      }
+    },
+    {
+      "name": "Asharq",
+      "category": "أخبار",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3210"
+      }
+    },
+    {
+      "name": "ON Time Sport 1",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "SD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/4298",
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/507"
+      }
+    },
+    {
+      "name": "ON Time Sport 2",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/949"
+      }
+    },
+    {
+      "name": "Al Ahly TV",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/952"
+      }
+    },
+    {
+      "name": "Zamalek TV",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2068"
+      }
+    },
+    {
+      "name": "CBC",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/502"
+      }
+    },
+    {
+      "name": "CBC Drama",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/500"
+      }
+    },
+    {
+      "name": "CBC Sofra",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/501"
+      }
+    },
+    {
+      "name": "DMC",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/503"
+      }
+    },
+    {
+      "name": "Al Nahar",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/504"
+      }
+    },
+    {
+      "name": "Al Nahar Drama",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/505"
+      }
+    },
+    {
+      "name": "ON Drama",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/506"
+      }
+    },
+    {
+      "name": "ON E",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/508"
+      }
+    },
+    {
+      "name": "Al Hayah",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/509"
+      }
+    },
+    {
+      "name": "Mehwar",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/510"
+      }
+    },
+    {
+      "name": "Nile Sport",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/496"
+      }
+    },
+    {
+      "name": "Nile Comedy",
+      "category": "مصرية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/497"
+      }
+    },
+    {
+      "name": "Al Oula International",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/726"
+      }
+    },
+    {
+      "name": "Al Maghribia",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/727"
+      }
+    },
+    {
+      "name": "2M Maroc",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/728"
+      }
+    },
+    {
+      "name": "Chada TV",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/729"
+      }
+    },
+    {
+      "name": "Assadissa",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/730"
+      }
+    },
+    {
+      "name": "Arriadia",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/731",
+        "TNT HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/4489"
+      }
+    },
+    {
+      "name": "Medi1 TV",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/732"
+      }
+    },
+    {
+      "name": "Tele Maroc",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/735"
+      }
+    },
+    {
+      "name": "Tamazight",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/736",
+        "FHD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3114"
+      }
+    },
+    {
+      "name": "M24",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/3109"
+      }
+    },
+    {
+      "name": "Al Maghribia News",
+      "category": "مغربية",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/734"
+      }
+    },
+    {
+      "name": "beIN Movies 1",
+      "category": "أفلام و ترفيه",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/24"
+      }
+    },
+    {
+      "name": "beIN Movies 2",
+      "category": "أفلام و ترفيه",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/17"
+      }
+    },
+    {
+      "name": "beIN Movies 3",
+      "category": "أفلام و ترفيه",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/18"
+      }
+    },
+    {
+      "name": "beIN Movies 4",
+      "category": "أفلام و ترفيه",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/19"
+      }
+    },
+    {
+      "name": "beIN Series 1",
+      "category": "أفلام و ترفيه",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/20"
+      }
+    },
+    {
+      "name": "beIN Series 2",
+      "category": "أفلام و ترفيه",
+      "language": "ar",
+      "description": "",
+      "image": "https://i.imgur.com/TVIbHns.png",
+      "qualities": {
+        "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/21"
+      }
+    }
+  ]
 }
