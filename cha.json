@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "updated_at": "2026-01-16",
   "channels": [
     {
@@ -340,7 +340,7 @@
       "description": "",
       "image": "https://i.imgur.com/TVIbHns.png",
       "qualities": {
-        "SD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/2772",
+        "SD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/",
         "HD": "http://ugeen.live:8080/Ugeen_VIP0cY0Hy/aq6ogz/846"
       }
     },
@@ -1124,6 +1124,7 @@
     }
   ]
 }
+
 
 
 
